@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+# config.toml
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
