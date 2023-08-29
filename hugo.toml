@@ -1,7 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bergen-road-trips.org'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bergen Road Trips'
 
 # config.toml
 [[module.imports]]
 path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+[params]
+#favicon = "favicon.ico" # Path to favicon file
