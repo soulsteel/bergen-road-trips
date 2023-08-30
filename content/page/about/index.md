@@ -7,7 +7,7 @@ menu:
     main:
         weight: 2
         params: 
-            icon: about
+            icon: info
 ---
 
 Hi. We are Marek, Meng-Yun and Zhanbolat.
